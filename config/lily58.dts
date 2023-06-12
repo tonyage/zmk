@@ -1,3 +1,4 @@
+
 / {
     chosen {
       zmk,battery = &vbatt;
